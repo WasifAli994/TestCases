@@ -1,0 +1,17 @@
+{
+  "name": "testcases",
+  "version": "1.0.0",
+  "description": "A portal for the test case collection and management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "SQA"
+  ],
+  "author": "Wasif Ali",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
